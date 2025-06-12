@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+transformers
+langchain
+langserve
+langchain_huggingface
+huggingface_hub
+pyngrok
+nest_asyncio
